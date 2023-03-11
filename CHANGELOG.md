@@ -2,8 +2,7 @@
 
 ### Features
 
-* **course:** add  element ([b6d0880](https://github.com/AnnaZhiv/mathmod/commit/b6d0880aff647a9935f981a4989dda58e6ac3d12))*
-* 
+* **course:** add  element ([b6d0880](https://github.com/AnnaZhiv/mathmod/commit/b6d0880aff647a9935f981a4989dda58e6ac3d12))
 
 ## [1.0.6](https://github.com/AnnaZhiv/mathmod/compare/v3...v4) (2023-03-03)
 
