@@ -2,28 +2,25 @@
 
 ### Features
 
-* **course:** add  element ([1ab6714](https://github.com/AnnaZhiv/mathmod/commit/1ab671430fe253ebc21d29aa6af56ca3ed61bb4d))
+* **labs:** add  element ([1ab6714](https://github.com/AnnaZhiv/mathmod/commit/1ab671430fe253ebc21d29aa6af56ca3ed61bb4d))
 
 ## [1.0.7](https://github.com/AnnaZhiv/mathmod/compare/v4...v5) (2023-03-11)
 
 ### Features
 
-* **course:** add  element ([b6d0880](https://github.com/AnnaZhiv/mathmod/commit/b6d0880aff647a9935f981a4989dda58e6ac3d12))
+* **labs:** add  element ([b6d0880](https://github.com/AnnaZhiv/mathmod/commit/b6d0880aff647a9935f981a4989dda58e6ac3d12))
 
 ## [1.0.6](https://github.com/AnnaZhiv/mathmod/compare/v3...v4) (2023-03-03)
 
 ### Features
 
-* **course:** add  element ([85f5fcd](https://github.com/AnnaZhiv/mathmod/commit/85f5fcdb0615def3566c295201d497913437c3b3))
-
-
+* **labs:** add  element ([85f5fcd](https://github.com/AnnaZhiv/mathmod/commit/85f5fcdb0615def3566c295201d497913437c3b3))
 
 ## [1.0.5](https://github.com/AnnaZhiv/mathmod/compare/v3...v3.1) (2023-02-25)
 
-
 ### Features
 
-* **course:** add element ([d756844](https://github.com/AnnaZhiv/mathmod/commit/d756844b23285e5e54b6f96c12cb4b223bdd9a76))
+* **labs:** add element ([d756844](https://github.com/AnnaZhiv/mathmod/commit/d756844b23285e5e54b6f96c12cb4b223bdd9a76))
 
 ## [1.0.4](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.3...v1.0.4) (2023-02-07)
 
