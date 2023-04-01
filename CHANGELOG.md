@@ -1,3 +1,9 @@
+## [1.0.8](https://github.com/AnnaZhiv/mathmod/compare/v5...v7) (2023-03-25)
+
+### Features
+
+* **course:** add  element ([9b5c9fc](https://github.com/AnnaZhiv/mathmod/commit/9b5c9fcadb695dca2ca1235e4586679b6f0862ba))
+
 ## [1.0.7](https://github.com/AnnaZhiv/mathmod/compare/v4...v5) (2023-03-11)
 
 ### Features
